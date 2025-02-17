@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @dimasbp-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#  WELCOME 
+### ENJOY
 
-<!---
-dimasbp-dev/dimasbp-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Leoxsec
+- 👀 I’m interested in hacking, coding, and tech stuff.
+- 🌱 I’m currently learning cybersecurity and web development.
+- 💞️ I’m looking to collaborate on open-source security projects.
+- 📫 How to reach me: Send a carrier pigeon or just DM me.
+- 😄 Pronouns: Lord, Master, or just "dude" works.
+- ⚡ Fun fact: I can type faster than I can think (sometimes a problem).
+
+
+
+ /$$       /$$$$$$$$  /$$$$$$  /$$   /$$  /$$$$$$  /$$$$$$$$  /$$$$$$ 
+| $$      | $$_____/ /$$__  $$| $$  / $$ /$$__  $$| $$_____/ /$$__  $$
+| $$      | $$      | $$  \ $$|  $$/ $$/| $$  \__/| $$      | $$  \__/
+| $$      | $$$$$   | $$  | $$ \  $$$$/ |  $$$$$$ | $$$$$   | $$      
+| $$      | $$__/   | $$  | $$  >$$  $$  \____  $$| $$__/   | $$      
+| $$      | $$      | $$  | $$ /$$/\  $$ /$$  \ $$| $$      | $$    $$
+| $$$$$$$$| $$$$$$$$|  $$$$$$/| $$  \ $$|  $$$$$$/| $$$$$$$$|  $$$$$$/
+|________/|________/ \______/ |__/  |__/ \______/ |________/ \______/ 
+                                                                      
+                                                                      
+                                                                      
